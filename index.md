@@ -20,3 +20,7 @@ std::cout << "Hello World" << endl;
 ```
 int i = 10;
 ```
+
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
