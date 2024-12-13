@@ -6,3 +6,5 @@
 ###### 6th title
 
 I added six titles!
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
